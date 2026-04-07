@@ -1,6 +1,3 @@
-.site-header, .site-title, .page-header {
-    display: none !important;
-}
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
