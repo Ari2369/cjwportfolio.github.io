@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
     <title>崔静雯 · 作品集</title>
     <style>
-        /* 彻底清除所有默认边距，避免任何多余元素 */
         * {
             margin: 0;
             padding: 0;
