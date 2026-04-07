@@ -3,7 +3,7 @@ Cui's potfolio
 <!DOCTYPE html>
 <html>
 <head>
-    <title>我的作品集 - 你的名字</title>
+    <title>崔静雯的作品集</title>
     <style>
         body, html {
             margin: 0;
