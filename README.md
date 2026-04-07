@@ -1,6 +1,5 @@
 # cjwportfolio.github.io
-Cui's potfolio
-<!DOCTYPE html>
+感谢查看崔静雯的作品集~
 <html>
 <head>
     <title>崔静雯的作品集</title>
